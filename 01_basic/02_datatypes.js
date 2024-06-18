@@ -23,3 +23,4 @@ console.log(typeof "vikrant"); // string
 console.log(typeof isLogedIn); // boolean
 console.log(typeof null); // object (null is object assigned to a varible when it does not have any value)
 console.log(typeof message); // undefined (undefined is a datatype assigned to a variable when it is created but not yet initialized)
+console.log("Vikrant Salunkhe");
